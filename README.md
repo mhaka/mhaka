@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 🚀 Full-stack developer | PHP, Laravel, Wordpress, JavaScript, Node JS, Typescript, React JS, HTML, CSS, Tailwind Css, Bootstrap | Creating solutions that make a positive impact | Passionate about creating elegant solutions to complex problems | Constantly learning and exploring new technologies | Open to collaboration and new opportunities
-
 [![](https://visitcount.itsvg.in/api?id=mhaka&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ![](https://komarev.com/ghpvc/?username=mhaka&label=VIEWS)
